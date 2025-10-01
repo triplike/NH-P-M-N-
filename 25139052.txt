@@ -3,3 +3,4 @@ Họ và tên: Nguyễn ĐÌnh Triết
 
 CHỉnh lần 2:
 """"git commit -m "docs: Update README with personal information""""
+git config --global user.email "your.email@example.com"
