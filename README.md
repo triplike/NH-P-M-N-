@@ -16,4 +16,5 @@ Thành viên :
 Các lệnh git dùng nhiều: git add, git commit, git push, git pull, git checkout,...
 
 Khó khăn gặp phải: "Author identity unknown" và sử dụng Personal Access Token (PAT) thay cho mật khẩu.
+Cách giải quyết: Tra cứu Internet
 Học được: cách tạo token.
